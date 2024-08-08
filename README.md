@@ -1,0 +1,2 @@
+# n-sei
+primeiro repositório
